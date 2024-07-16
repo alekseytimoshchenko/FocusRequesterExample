@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Test_delete_it" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>
