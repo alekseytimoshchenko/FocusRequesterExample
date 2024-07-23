@@ -6,6 +6,8 @@ I wrote an article with step by step guide about this implementation on Medium:
 
 [![Read my article on Medium](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*3510X7h7pyNM1x4C_Rf1WA.jpeg)](https://oleksii-tym.medium.com/android-tv-advanced-focus-requester-manipulation-7569e818a734)
 
+Medium: https://oleksii-tym.medium.com/android-tv-advanced-focus-requester-manipulation-7569e818a734
+
 In this article, I cover:
 - Common performance pitfalls
 - Best practices 
